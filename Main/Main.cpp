@@ -11,7 +11,7 @@ char getComputerMove()
     srand(time(NULL));
     move = rand() % 3;
 
-    // potes na osnovu proja 
+    // potes na osnovu broja 
     if (move == 0) {
         return 'p';
     }
