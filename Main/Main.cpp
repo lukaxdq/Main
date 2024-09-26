@@ -98,11 +98,6 @@ int main()
     cout << "\t\t\tYour Move: " << playerMove << endl;
     cout << "\t\t\tComputer's Move: " << computerMove << endl;
 
-
-    /*
-    * Made by Lukxdq
-    * jebiga
-    */
     return 0;
     
 }
