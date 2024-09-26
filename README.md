@@ -1,4 +1,4 @@
-***Papir, Kamen, Makaze - C++ Program***
+**Papir, Kamen, Makaze - C++ Program**
 
 Ovaj program omogućava korisnicima da igraju igru "Papir, Kamen, Makaze" protiv računara.
 Uputstvo za korišćenje
